@@ -1,1 +1,0 @@
-﻿#target photoshop app.preferences.rulerUnits = Units.PIXELS;var outputFolder = Folder.selectDialog("Select a folder for  the output files");var openDocuements = app.documentsdoc = app.activeDocumentdoc.resizeImage((doc.width/2), doc.height/2))
